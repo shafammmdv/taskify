@@ -12,3 +12,5 @@ After signup, Admin has to confirm his account by OTP (expired after 2 minutes) 
 
 2. Change task status
 User is available to change status of task among TODO, IN_PROGRESS, DONE
+
+**Developed in 01.2022**
